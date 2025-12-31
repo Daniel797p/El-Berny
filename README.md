@@ -1,2 +1,2 @@
-# El-Berny
+# Berny
 Quiero aprender todo de codigos.
